@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "California Sunset Chicken",
+    "weight": 680,
+    "topping": [
+      "Marinated Chicken"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "American Bacon",
+    "weight": 680,
+    "topping": [
+      "Bacon"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Classic American",
+    "weight": 580,
+    "topping": [
+      "Ham"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Double Pepperoni",
+    "weight": 590,
+    "topping": [
+      "Pepperoni"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Triple Cheese",
+    "weight": 580,
+    "topping": []
+  },
+  {
+    "id": 6,
+    "name": "Take Away Meat Lover",
+    "weight": 1015,
+    "topping": [
+      "Meatballs",
+      "Marinated Beef",
+      "Bacon"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "New York Grilled Steak",
+    "weight": 610,
+    "topping": [
+      "Beef"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Meat lover",
+    "weight": 630,
+    "topping": [
+      "Chorizo"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "California Malibu",
+    "weight": 680,
+    "topping": [
+      "Ham"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "California Meatballs",
+    "weight": 680,
+    "topping": [
+      "Meatballs"
+    ]
+  }
+]

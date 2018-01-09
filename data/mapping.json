@@ -1,0 +1,19 @@
+{
+  "pizza": {
+    "properties": {
+      "id": {
+        "type": "long"
+      },
+      "name": {
+        "type": "text"
+      },
+      "topping": {
+        "type": "text",
+        "index": true
+      },
+      "weight": {
+        "type": "long"
+      }
+    }
+  }
+}

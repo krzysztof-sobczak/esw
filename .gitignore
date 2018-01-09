@@ -1,0 +1,5 @@
+build
+reports
+*.pyc
+.coverage
+solutions
