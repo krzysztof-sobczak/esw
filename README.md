@@ -15,7 +15,7 @@ During these tasks you will learn how to do:
 
 ## Pizzas
 
-The data that are used during the workshop is a list of pizzas, see [data/documments.json](data/documments.json).
+The data that are used during the workshop is a list of pizzas, see [data/documents.json](data/documents.json).
  
 ### Mapping
 
